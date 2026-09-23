@@ -1,8 +1,5 @@
 # 26-27 GDGoC Seoultech **스터디 - 블로그 챌린지** 
 
-<p align="center">
-  <img width="259" height="194" alt="image" src="" />
-</p>
 
 <br><br>
 
