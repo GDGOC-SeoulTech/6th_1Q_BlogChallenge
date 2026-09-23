@@ -84,7 +84,7 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
   <td><a href=""> 블로그</a></td>
   <td><a href=""> 블로그</a></td>
   <td><a href=""> 블로그</a></td>
-  <td><a href=""> 블로그</a></td>
+  <td><a href="blog.antaewoo.com"> 블로그</a></td>
 </tr>
 </table>
 
