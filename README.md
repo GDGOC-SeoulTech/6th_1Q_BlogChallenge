@@ -41,42 +41,19 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
 
 <table align="center">
 <tr align="center">
-  <td width="250"><img src="https://avatars.githubusercontent.com/hajinki" width="90"></td>
-  <td width="250"><img src="" width="90"></td>
-  <td width="250"><img src="" width="90"></td>
-  <td width="250"><img src="" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/kimm00" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/youn9hon9" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/sjmn-zip" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/seoha376" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/AnTaewoo" width="90"></td>
 </tr>
 
 <tr align="center">
-  <td><a href="https://github.com/hajinki">하진</a></td>
-  <td><a href=""> </a></td>
-  <td><a href=""> </a></td>
-  <td><a href=""> </a></td>
-</tr>
-
-<tr align="center">
-  <td><a href="https://pajingi.tistory.com/">하진 블로그</a></td>
-  <td><a href=""> 블로그</a></td>
-  <td><a href=""> 블로그</a></td>
-  <td><a href=""> 블로그</a></td>
-</tr>
-</table>
-
-<table align="center">
-<tr align="center">
-  <td width="200"><img src="" width="90"></td>
-  <td width="200"><img src="" width="90"></td>
-  <td width="200"><img src="" width="90"></td>
-  <td width="200"><img src="" width="90"></td>
-  <td width="200"><img src="" width="90"></td>
-</tr>
-
-<tr align="center">
-  <td><a href=""> </a></td>
-  <td><a href=""> </a></td>
-  <td><a href=""> </a></td>
-  <td><a href=""> </a></td>
-  <td><a href=""> </a></td>
+  <td><a href="https://github.com/kimm00">도이</a></td>
+  <td><a href="https://github.com/youn9hon9">영홍</a></td>
+  <td><a href="https://github.com/sjmn-zip">재민</a></td>
+  <td><a href="https://github.com/seoha376">서하</a></td>
+  <td><a href="https://github.com/AnTaewoo">태우</a></td>
 </tr>
 
 <tr align="center">
@@ -90,19 +67,19 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
 
 <table align="center">
 <tr align="center">
+  <td width="200"><img src="https://avatars.githubusercontent.com/m2nwo079" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/enderpawar" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/JunbeomJang115" width="90"></td>
   <td width="200"><img src="" width="90"></td>
-  <td width="200"><img src="" width="90"></td>
-  <td width="200"><img src="" width="90"></td>
-  <td width="200"><img src="" width="90"></td>
-  <td width="200"><img src="" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/seunghochoii" width="90"></td>
 </tr>
 
 <tr align="center">
-  <td><a href=""> </a></td>
-  <td><a href=""> </a></td>
-  <td><a href=""> </a></td>
-  <td><a href=""> </a></td>
-  <td><a href=""> </a></td>
+  <td><a href="https://github.com/m2nwo079">민우</a></td>
+  <td><a href="https://github.com/enderpawar">진우</a></td>
+  <td><a href="https://github.com/JunbeomJang115">준범</a></td>
+  <td><a href=""> 연지</a></td>
+  <td><a href="https://github.com/seunghochoii">승호</a></td>
 </tr>
 
 <tr align="center">
