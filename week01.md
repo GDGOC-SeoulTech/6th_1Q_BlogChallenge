@@ -6,7 +6,7 @@
 - [x] 하진 -
 - [x] 재민 - 
 - [x] 서하 -
-- [x] 태우
+- [x] 태우 - https://blog.antaewoo.com/posts/github-antaewoo-reinforcement-learning-study-log-deep-sarsa/
 - [x] 민우 -
 - [x] 진우
 - [x] 준범
