@@ -38,32 +38,9 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
 
 ## 🫂 챌린지 크루
 
-
 <table align="center">
 <tr align="center">
   <td width="250"><img src="https://avatars.githubusercontent.com/hajinki" width="90"></td>
-  <td width="250"><img src="" width="90"></td>
-  <td width="250"><img src="" width="90"></td>
-  <td width="250"><img src="" width="90"></td>
-</tr>
-
-<tr align="center">
-  <td><a href="https://github.com/hajinki">하진</a></td>
-  <td><a href=""> </a></td>
-  <td><a href=""> </a></td>
-  <td><a href=""> </a></td>
-</tr>
-
-<tr align="center">
-  <td><a href="https://pajingi.tistory.com/">하진 블로그</a></td>
-  <td><a href=""> 블로그</a></td>
-  <td><a href=""> 블로그</a></td>
-  <td><a href=""> 블로그</a></td>
-</tr>
-</table>
-
-<table align="center">
-<tr align="center">
   <td width="200"><img src="https://avatars.githubusercontent.com/kimm00" width="90"></td>
   <td width="200"><img src="https://avatars.githubusercontent.com/youn9hon9" width="90"></td>
   <td width="200"><img src="https://avatars.githubusercontent.com/sjmn-zip" width="90"></td>
@@ -72,6 +49,7 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
 </tr>
 
 <tr align="center">
+  <td><a href="https://github.com/hajinki">하진</a></td>
   <td><a href="https://github.com/kimm00">도이</a></td>
   <td><a href="https://github.com/youn9hon9">영홍</a></td>
   <td><a href="https://github.com/sjmn-zip">재민</a></td>
@@ -80,6 +58,7 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
 </tr>
 
 <tr align="center">
+  <td><a href="https://pajingi.tistory.com/">하진 블로그</a></td>
   <td><a href=""> 블로그</a></td>
   <td><a href=""> 블로그</a></td>
   <td><a href=""> 블로그</a></td>
@@ -112,6 +91,33 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
   <td><a href=""> 블로그</a></td>
   <td><a href=""> 블로그</a></td>
 </tr>
+
+<table align="center">
+<tr align="center">
+  <td width="200"><img src="https://avatars.githubusercontent.com/pepcsy" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/ChanHHaeng" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/mundaeseong" width="90"></td>
+  <td width="200"><img src="" width="90"></td>
+  <td width="200"><img src="" width="90"></td>
+</tr>
+
+<tr align="center">
+  <td><a href="https://github.com/pepcsy">수연</a></td>
+  <td><a href="https://github.com/ChanHHaeng">찬행</a></td>
+  <td><a href="https://github.com/mundaeseong">대성</a></td>
+  <td><a href=""> </a></td>
+  <td><a href=""> </a></td>
+</tr>
+
+<tr align="center">
+  <td><a href=""> 블로그</a></td>
+  <td><a href=""> 블로그</a></td>
+  <td><a href=""> 블로그</a></td>
+  <td><a href=""> 블로그</a></td>
+  <td><a href=""> 블로그</a></td>
+</tr>
+</table>
+
 </table>
 
 <br>
