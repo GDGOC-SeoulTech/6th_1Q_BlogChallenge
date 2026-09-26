@@ -85,7 +85,7 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
 </tr>
 
 <tr align="center">
-  <td><a href=""> 블로그</a></td>
+  <td><a href="https://velog.io/@m2nwo079"> 민우 블로그</a></td>
   <td><a href="https://velog.io/@snowmile1224/posts"> 블로그</a></td>
   <td><a href=""> 블로그</a></td>
   <td><a href=""> 블로그</a></td>
