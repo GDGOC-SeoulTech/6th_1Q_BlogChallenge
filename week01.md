@@ -8,6 +8,7 @@
 - [x] 서하 -
 - [x] 태우 - https://blog.antaewoo.com/posts/github-antaewoo-reinforcement-learning-study-log-deep-sarsa/
            - https://blog.antaewoo.com/posts/github-antaewoo-reinforcement-learning-study-log-monte-carlo-policy-gradient/
+           - https://blog.antaewoo.com/posts/github-antaewoo-reinforcement-learning-study-log-cartpole-dqn/
 - [x] 민우 -
 - [x] 진우
 - [x] 준범
