@@ -10,7 +10,7 @@
 - [x] 태우 - https://blog.antaewoo.com/posts/github-antaewoo-reinforcement-learning-study-log-deep-sarsa/
            - https://blog.antaewoo.com/posts/github-antaewoo-reinforcement-learning-study-log-monte-carlo-policy-gradient/
            - https://blog.antaewoo.com/posts/github-antaewoo-reinforcement-learning-study-log-cartpole-dqn/
-- [x] 민우 -
+- [x] 민우 - [[Paper Review] Analytic Agent for Enterprise API](https://velog.io/@m2nwo079/Paper-Review-Analytic-Agent-for-Enterprise-API)
 - [x] 진우
 - [x] 준범
 - [x] 연지
