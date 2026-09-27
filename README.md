@@ -104,7 +104,7 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
 <tr align="center">
   <td><a href="https://github.com/pepcsy">수연</a></td>
   <td><a href="https://github.com/ChanHHaeng">찬행</a></td>
-  <td><a href="https://slime5593.tistory.com">대성</a></td>
+  <td><a href="https://github.com/mundaeseong">대성</a></td>
   <td><a href="https://github.com/inazang">인아</a></td>
   <td><a href=""> </a></td>
 </tr>
@@ -112,7 +112,7 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
 <tr align="center">
   <td><a href="https://velog.io/@pepcsy/posts"> 블로그</a></td>
   <td><a href=""> 블로그</a></td>
-  <td><a href=""> 블로그</a></td>
+  <td><a href="https://slime5593.tistory.com/"> 블로그</a></td>
   <td><a href=""> 블로그</a></td>
   <td><a href=""> 블로그</a></td>
 </tr>
