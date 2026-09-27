@@ -4,7 +4,8 @@
 - [x] 도이 -
 - [x] 영홍 -
 - [x] 하진 -
-- [x] 재민 - 
+- [x] 재민 - https://velog.io/@sjmn-zip/Daon-%EA%B0%9C%EB%B0%9C%EA%B8%B0-1-toik2skp
+           - https://velog.io/@sjmn-zip/Daon-%EA%B0%9C%EB%B0%9C%EA%B8%B0-2-%EC%9C%84%EA%B8%B0-%ED%83%90%EC%A7%80-%EA%B2%8C%EC%9D%B4%ED%8A%B8
 - [x] 서하 -
 - [x] 태우 - https://blog.antaewoo.com/posts/github-antaewoo-reinforcement-learning-study-log-deep-sarsa/
            - https://blog.antaewoo.com/posts/github-antaewoo-reinforcement-learning-study-log-monte-carlo-policy-gradient/
