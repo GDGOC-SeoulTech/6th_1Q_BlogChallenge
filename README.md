@@ -80,7 +80,7 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
   <td><a href="https://github.com/m2nwo079">민우</a></td>
   <td><a href="https://github.com/enderpawar">진우</a></td>
   <td><a href="https://github.com/JunbeomJang115">준범</a></td>
-  <td><a href=""> 연지</a></td>
+  <td><a href="https://github.com/jyg061201-cyber"> 연지</a></td>
   <td><a href="https://github.com/seunghochoii">승호</a></td>
 </tr>
 
