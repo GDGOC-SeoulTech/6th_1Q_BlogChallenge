@@ -17,6 +17,8 @@
 - [x] 연지
 - [x] 승호
 - [x] 대성 - https://slime5593.tistory.com/1
+- [ ] 수연
+- [ ] 신우
 
 <br>
 
