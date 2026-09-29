@@ -19,7 +19,7 @@
 - [x] 대성 - https://slime5593.tistory.com/1
 - [ ] 수연
 - [ ] 신우
-
+- [ ] 해운 - https://velog.io/@calvin2001/01.-%EA%B0%95%ED%99%94-%ED%95%99%EC%8A%B5%EC%9D%B4%EB%9E%80
 <br>
 
 ---
