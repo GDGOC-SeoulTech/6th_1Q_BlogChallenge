@@ -11,7 +11,8 @@
            - https://blog.antaewoo.com/posts/github-antaewoo-reinforcement-learning-study-log-monte-carlo-policy-gradient/
            - https://blog.antaewoo.com/posts/github-antaewoo-reinforcement-learning-study-log-cartpole-dqn/
 - [x] 민우 - [[Paper Review] Analytic Agent for Enterprise API](https://velog.io/@m2nwo079/Paper-Review-Analytic-Agent-for-Enterprise-API)
-- [x] 진우 = https://velog.io/@snowmile1224/Spring-Study%EB%A5%BC-%EB%A7%88%EC%B9%98%EB%A9%B0-5%EC%A3%BC-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EB%B3%B8%EA%B8%B0-%ED%8A%B8%EB%9E%99-%ED%9A%8C%EA%B3%A0%EC%99%80-%EB%8B%A4%EC%9D%8C-%EB%AA%A9%ED%91%9C-mx5am4xr
+- [x] 진우 = [Spring Study를 마치며 — 5주 백엔드 기본기 트랙 회고와 다음 목표
+](https://velog.io/@snowmile1224/Spring-Study%EB%A5%BC-%EB%A7%88%EC%B9%98%EB%A9%B0-5%EC%A3%BC-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EB%B3%B8%EA%B8%B0-%ED%8A%B8%EB%9E%99-%ED%9A%8C%EA%B3%A0%EC%99%80-%EB%8B%A4%EC%9D%8C-%EB%AA%A9%ED%91%9C-mx5am4xr)
 - [x] 준범
 - [x] 연지
 - [x] 승호
