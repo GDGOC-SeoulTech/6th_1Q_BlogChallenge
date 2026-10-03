@@ -8,7 +8,7 @@
 - [ ] 서하 - []()
 - [ ] 태우 - []()
 - [ ] 민우 - []()
-- [ ] 진우 - []()
+- [ ] 진우 - [Podman 정리 — 데몬 없는 컨테이너와 쿠버네티스, 그리고 예약 API에 적용해 보기](https://velog.io/@snowmile1224/Podman-%EC%A0%95%EB%A6%AC-%EB%8D%B0%EB%AA%AC-%EC%97%86%EB%8A%94-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%98%88%EC%95%BD-API%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%B4-%EB%B3%B4%EA%B8%B0)
 - [ ] 준범 - []()
 - [ ] 연지 - []()
 - [ ] 승호 - []()
