@@ -17,7 +17,7 @@
 - [ ] 대성 - []()
 - [ ] 수연 - []()
 - [ ] 신우 - []()
-
+- [ ] 찬행 - [ITM 코딩경진대회 - 준비부터 복기까지 -1](https://velog.io/@haeng_k/ITM-%EC%BD%94%EB%94%A9%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%A4%80%EB%B9%84%EB%B6%80%ED%84%B0-%EB%B3%B5%EA%B8%B0%EA%B9%8C%EC%A7%80-1)
 <br>
 
 ---
