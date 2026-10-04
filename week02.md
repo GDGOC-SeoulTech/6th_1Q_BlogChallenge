@@ -1,7 +1,7 @@
 # Week 2 - GDG 파워블로거 챌린지
 
 ## 📝 블로그 업로드
-- [ ] 도이 - []()
+- [ ] 도이 - [[Kotlin] Getter와 Setter 이해하기: field는 왜 필요할까?](https://velog.io/@kimm00/Kotlin-Getter와-Setter-이해하기-field는-왜-필요할까)
 - [ ] 영홍 - [갤럭시 캠퍼스 - 폴더블 헤리티지 릴레이 특강 후기](https://winterx3.tistory.com/88)
 - [x] 하진 - [문제 진술문 — 5 Whys & How Might We ](https://pajingi.tistory.com/m/8)
 - [x] 재민 - [스터디 복기](https://velog.io/@sjmn-zip/GDGoC-AI-%EC%8A%A4%ED%84%B0%EB%94%94-2-K-means-%EC%84%B8%EC%85%98%EC%9D%84-%EB%93%A3%EA%B3%A0-%EB%8B%A4%EC%8B%9C-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B2%83%EB%93%A4)
