@@ -2,11 +2,11 @@
 
 ## 📝 블로그 업로드
 - [x] 도이 - [[Kotlin] Getter와 Setter 이해하기: field는 왜 필요할까?](https://velog.io/@kimm00/Kotlin-Getter와-Setter-이해하기-field는-왜-필요할까)
-- [ ] 영홍 - [갤럭시 캠퍼스 - 폴더블 헤리티지 릴레이 특강 후기](https://winterx3.tistory.com/88)
+- [X] 영홍 - [갤럭시 캠퍼스 - 폴더블 헤리티지 릴레이 특강 후기](https://winterx3.tistory.com/88)
 - [x] 하진 - [문제 진술문 — 5 Whys & How Might We ](https://pajingi.tistory.com/m/8)
 - [x] 재민 - [스터디 복기](https://velog.io/@sjmn-zip/GDGoC-AI-%EC%8A%A4%ED%84%B0%EB%94%94-2-K-means-%EC%84%B8%EC%85%98%EC%9D%84-%EB%93%A3%EA%B3%A0-%EB%8B%A4%EC%8B%9C-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B2%83%EB%93%A4)
 - [ ] 서하 - []()
-- [ ] 태우 - [actor-critic](https://blog.antaewoo.com/posts/github-antaewoo-reinforcement-learning-study-log-cartpole-a2c/)
+- [X] 태우 - [actor-critic](https://blog.antaewoo.com/posts/github-antaewoo-reinforcement-learning-study-log-cartpole-a2c/)
            - [k-means](https://blog.antaewoo.com/posts/github-antaewoo-machine-learning-study-log-k-means/)
            - [인공지능 개요](https://blog.antaewoo.com/posts/github-antaewoo-artificial-intelligence-a-modern-approach-1-introduce/)
 - [x] 민우 - [[Paper Review] TechToken](https://velog.io/@m2nwo079/Paper-Review-TechToken)
@@ -17,7 +17,7 @@
 - [ ] 대성 - []()
 - [ ] 수연 - []()
 - [ ] 신우 - []()
-- [ ] 찬행 - [ITM 코딩경진대회 - 준비부터 복기까지 -1](https://velog.io/@haeng_k/ITM-%EC%BD%94%EB%94%A9%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%A4%80%EB%B9%84%EB%B6%80%ED%84%B0-%EB%B3%B5%EA%B8%B0%EA%B9%8C%EC%A7%80-1)
+- [X] 찬행 - [ITM 코딩경진대회 - 준비부터 복기까지 -1](https://velog.io/@haeng_k/ITM-%EC%BD%94%EB%94%A9%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%A4%80%EB%B9%84%EB%B6%80%ED%84%B0-%EB%B3%B5%EA%B8%B0%EA%B9%8C%EC%A7%80-1)
 <br>
 
 ---
@@ -33,7 +33,7 @@
 |:---:|:---|:---:|
 | **도이** | `@영홍` `@태우` | ✅ |
 | **영홍** | - | ⬜ |
-| **하진** | — | ⬜ |
+| **하진** | `@영홍` `@태우` `@재민` `@도이` `@민우` `@진우` `@찬행`| ✅ |
 | **재민** | — | ⬜ |
 | **서하** | — | ⬜ |
 | **태우** | `@재민` | ⬜ |
