@@ -86,14 +86,14 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
    <td width="200"><img src="https://github.com/ChanHHaeng.png" width="90"></td>
    <td width="200"><img src="https://github.com/mundaeseong.png" width="90"></td>
    <td width="200"><img src="https://github.com/inazang.png" width="90"></td>
-   <td width="200"></td>
+   <td width="200"><img src="https://github.com/bigmansinwoo-coder.png" width="90"></td>
 </tr>
    <tr align="center">
       <td><a href="https://github.com/pepcsy">수연</a></td>
 <td><a href="https://github.com/ChanHHaeng">찬행</a></td>
 <td><a href="https://github.com/mundaeseong">대성</a></td>
 <td><a href="https://github.com/inazang">인아</a></td>
-<td>신우</td>
+<td><a href="https://github.com/bigmansinwoo-coder">신우</td>
    </tr>
 <tr align="center">
    <td><a href="https://velog.io/@pepcsy/posts">수연 블로그</a></td>
