@@ -13,7 +13,7 @@
 - [x] 준범 - [HBM과 반도체 섹터는 왜 주목받는가](https://velog.io/@jangjb_115/posts)
 - [ ] 연지 - []()
 - [ ] 승호 - []()
-- [ ] 대성 - []()
+- [ ] 대성 - [파이썬 자동 웹 크롤러(1)](https://slime5593.tistory.com/2)
 - [ ] 수연 - []()
 - [ ] 신우 - []()
 - [X] 찬행 - [ITM 코딩경진대회 - 준비부터 복기까지 -1](https://velog.io/@haeng_k/ITM-%EC%BD%94%EB%94%A9%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%A4%80%EB%B9%84%EB%B6%80%ED%84%B0-%EB%B3%B5%EA%B8%B0%EA%B9%8C%EC%A7%80-1)
