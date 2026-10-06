@@ -19,7 +19,7 @@
 - [x] 대성 - https://slime5593.tistory.com/1
 - [ ] 수연 - https://velog.io/@pepcsy/java-%EC%86%8C%EA%B3%B5-%ED%8C%80%ED%94%8C-%EC%8B%9C%EC%9E%91
 - [ ] 신우
-
+- [ ] 인아
 <br>
 
 ---
