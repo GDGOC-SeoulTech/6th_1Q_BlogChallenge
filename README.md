@@ -77,7 +77,7 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
 <tr align="center">
    <td><a href="https://velog.io/@m2nwo079">민우 블로그</a></td>
 <td><a href="https://velog.io/@snowmile1224/posts">진우 블로그</a></td>
-<td><a href="">준범 블로그</td>
+<td><a href="https://velog.io/@jangjb_115/posts">준범 블로그</a></td>
 <td><a href="">연지 블로그</td>
 <td><a href="https://seunghochoii.tistory.com">승호 블로그</td>
 </tr>
