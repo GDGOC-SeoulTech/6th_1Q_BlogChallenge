@@ -14,7 +14,7 @@
 - [ ] 연지 - []()
 - [ ] 승호 - []()
 - [ ] 대성 - [파이썬 자동 웹 크롤러(1)](https://slime5593.tistory.com/2)
-- [ ] 수연 - []()
+- [ ] 수연 - [데이터마이닝 실습 과제](https://velog.io/@pepcsy/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A7%88%EC%9D%B4%EB%8B%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC-%EC%97%B0%EC%8A%B5)
 - [ ] 신우 - []()
 - [X] 찬행 - [ITM 코딩경진대회 - 준비부터 복기까지 -1](https://velog.io/@haeng_k/ITM-%EC%BD%94%EB%94%A9%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%A4%80%EB%B9%84%EB%B6%80%ED%84%B0-%EB%B3%B5%EA%B8%B0%EA%B9%8C%EC%A7%80-1)
 - [ ] 인아
