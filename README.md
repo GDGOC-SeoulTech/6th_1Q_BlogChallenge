@@ -39,86 +39,70 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
 ## 🫂 챌린지 크루
 
 <table align="center">
+   <tr align="center">
+      <td width="200"><img src="https://github.com/hajinki.png" width="90"></td>
+      <td width="200"><img src="https://github.com/kimm00.png" width="90"></td>
+      <td width="200"><img src="https://github.com/youn9hon9.png" width="90"></td>
+      <td width="200"><img src="https://github.com/sjmn-zip.png" width="90"></td>
+      <td width="200"><img src="https://github.com/AnTaewoo.png" width="90"></td>
+   </tr>
+   <tr align="center">
+      <td><a href="https://github.com/hajinki">하진</a></td>
+<td><a href="https://github.com/kimm00">도이</a></td>
+<td><a href="https://github.com/youn9hon9">영홍</a></td>
+<td><a href="https://github.com/sjmn-zip">재민</a></td>
+<td><a href="https://github.com/AnTaewoo">태우</a></td>
+   </tr>
 <tr align="center">
-  <td width="250"><img src="https://avatars.githubusercontent.com/hajinki" width="90"></td>
-  <td width="200"><img src="https://avatars.githubusercontent.com/kimm00" width="90"></td>
-  <td width="200"><img src="https://avatars.githubusercontent.com/youn9hon9" width="90"></td>
-  <td width="200"><img src="https://avatars.githubusercontent.com/sjmn-zip" width="90"></td>
-  <td width="200"><img src="https://avatars.githubusercontent.com/AnTaewoo" width="90"></td>
+<td><a href="https://pajingi.tistory.com/">하진 블로그</a></td>
+<td><a href="https://velog.io/@kimm00/posts">도이 블로그</a></td>
+<td><a href="https://winterx3.tistory.com/">영홍 블로그</a></td>
+<td><a href="https://velog.io/@sjmn-zip/posts">재민 블로그</a></td>
+<td><a href="https://blog.antaewoo.com">태우 블로그</a></td>
 </tr>
-
 <tr align="center">
-  <td><a href="https://github.com/hajinki">하진</a></td>
-  <td><a href="https://github.com/kimm00">도이</a></td>
-  <td><a href="https://github.com/youn9hon9">영홍</a></td>
-  <td><a href="https://github.com/sjmn-zip">재민</a></td>
-  <td><a href="https://github.com/AnTaewoo">태우</a></td>
+   <td width="200"><img src="https://github.com/m2nwo079.png" width="90"></td>
+   <td width="200"><img src="https://github.com/enderpawar.png" width="90"></td>
+   <td width="200"><img src="https://github.com/JunbeomJang115.png" width="90"></td>
+   <td width="200"><img src="https://github.com/jyg061201-cyber.png" width="90"></td>
+   <td width="200"><img src="https://github.com/seunghochoii.png" width="90"></td>
 </tr>
-
+   <tr align="center">
+      <td><a href="https://github.com/m2nwo079">민우</a></td>
+<td><a href="https://github.com/enderpawar">진우</a></td>
+<td><a href="https://github.com/JunbeomJang115">준범</a></td>
+<td><a href="https://github.com/jyg061201-cyber">연지</a></td>
+<td><a href="https://github.com/seunghochoii">승호</a></td>
+   </tr>
 <tr align="center">
-  <td><a href="https://pajingi.tistory.com/">하진 블로그</a></td>
-  <td><a href="https://velog.io/@kimm00/posts">도이 블로그</a></td>
-  <td><a href="https://winterx3.tistory.com/">영홍 블로그</a></td>
-  <td><a href="https://velog.io/@sjmn-zip/posts">재민 블로그</a></td>
-  <td><a href="https://blog.antaewoo.com">태우 블로그</a></td>
+   <td><a href="https://velog.io/@m2nwo079">민우 블로그</a></td>
+<td><a href="https://velog.io/@snowmile1224/posts">진우 블로그</a></td>
+<td><a href="">준범 블로그</td>
+<td><a href="">연지 블로그</td>
+<td><a href="https://seunghochoii.tistory.com">승호 블로그</td>
 </tr>
-</table>
-
-<table align="center">
 <tr align="center">
-  <td width="200"><img src="https://avatars.githubusercontent.com/m2nwo079" width="90"></td>
-  <td width="200"><img src="https://avatars.githubusercontent.com/enderpawar" width="90"></td>
-  <td width="200"><img src="https://avatars.githubusercontent.com/JunbeomJang115" width="90"></td>
-  <td width="200"><img src="" width="90"></td>
-  <td width="200"><img src="https://avatars.githubusercontent.com/seunghochoii" width="90"></td>
+   <td width="200"><img src="https://github.com/pepcsy.png" width="90"></td>
+   <td width="200"><img src="https://github.com/ChanHHaeng.png" width="90"></td>
+   <td width="200"><img src="https://github.com/mundaeseong.png" width="90"></td>
+   <td width="200"><img src="https://github.com/inazang.png" width="90"></td>
+   <td width="200"></td>
 </tr>
-
+   <tr align="center">
+      <td><a href="https://github.com/pepcsy">수연</a></td>
+<td><a href="https://github.com/ChanHHaeng">찬행</a></td>
+<td><a href="https://github.com/mundaeseong">대성</a></td>
+<td><a href="https://github.com/inazang">인아</a></td>
+<td>신우</td>
+   </tr>
 <tr align="center">
-  <td><a href="https://github.com/m2nwo079">민우</a></td>
-  <td><a href="https://github.com/enderpawar">진우</a></td>
-  <td><a href="https://github.com/JunbeomJang115">준범</a></td>
-  <td><a href="https://github.com/jyg061201-cyber"> 연지</a></td>
-  <td><a href="https://github.com/seunghochoii">승호</a></td>
-</tr>
-
-<tr align="center">
-  <td><a href="https://velog.io/@m2nwo079"> 민우 블로그</a></td>
-  <td><a href="https://velog.io/@snowmile1224/posts"> 진우 블로그</a></td>
-  <td><a href=""> 준범 블로그</a></td>
-  <td><a href=""> 연지 블로그</a></td>
-  <td><a href="https://seunghochoii.tistory.com"> 승호 블로그</a></td>
-</tr>
-
-<table align="center">
-<tr align="center">
-  <td width="200"><img src="https://avatars.githubusercontent.com/pepcsy" width="90"></td>
-  <td width="200"><img src="https://avatars.githubusercontent.com/ChanHHaeng" width="90"></td>
-  <td width="200"><img src="https://avatars.githubusercontent.com/mundaeseong" width="90"></td>
-  <td width="200"><img src="" width="90"></td>
-  <td width="200"><img src="" width="90"></td>
-</tr>
-
-<tr align="center">
-  <td><a href="https://github.com/pepcsy">수연</a></td>
-  <td><a href="https://github.com/ChanHHaeng">찬행</a></td>
-  <td><a href="https://github.com/mundaeseong">대성</a></td>
-  <td><a href="https://github.com/inazang">인아</a></td>
-  <td><a href="">수연</a></td>
-  <td><a href="">신우</a></td>
-  <td><a href=""> </a></td>
-</tr>
-
-<tr align="center">
-  <td><a href="https://velog.io/@pepcsy/posts"> 블로그</a></td>
-  <td><a href="https://velog.io/@haeng_k/posts"> 블로그</a></td>
-  <td><a href="https://slime5593.tistory.com/"> 블로그</a></td>
-  <td><a href=""> 블로그</a></td>
-  <td><a href=""> 블로그</a></td>
+   <td><a href="https://velog.io/@pepcsy/posts">수연 블로그</a></td>
+<td><a href="https://velog.io/@haeng_k/posts">찬행 블로그</a></td>
+<td><a href="https://slime5593.tistory.com/">대성 블로그</a></td>
+<td><a href="">인아 블로그</td>
+<td><a href="">신우 블로그</td>
 </tr>
 </table>
-
-</table>
-
 <br>
 
 ### 📅 일정표
@@ -165,3 +149,4 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
 | Week 38 | 6/7 ~ 6/13 | 6/13 (일) | 6/15 (화) |
 | Week 39 | 6/14 ~ 6/20 | 6/20 (일) | 6/22 (화) |
 | Week 40 | 6/21 ~ 6/27 | 6/27 (일) | 6/29 (화) |
+
