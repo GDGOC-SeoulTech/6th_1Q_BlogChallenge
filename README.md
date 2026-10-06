@@ -44,7 +44,6 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
   <td width="200"><img src="https://avatars.githubusercontent.com/kimm00" width="90"></td>
   <td width="200"><img src="https://avatars.githubusercontent.com/youn9hon9" width="90"></td>
   <td width="200"><img src="https://avatars.githubusercontent.com/sjmn-zip" width="90"></td>
-  <td width="200"><img src="https://avatars.githubusercontent.com/seoha376" width="90"></td>
   <td width="200"><img src="https://avatars.githubusercontent.com/AnTaewoo" width="90"></td>
 </tr>
 
@@ -53,7 +52,6 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
   <td><a href="https://github.com/kimm00">도이</a></td>
   <td><a href="https://github.com/youn9hon9">영홍</a></td>
   <td><a href="https://github.com/sjmn-zip">재민</a></td>
-  <td><a href="https://github.com/seoha376">서하</a></td>
   <td><a href="https://github.com/AnTaewoo">태우</a></td>
 </tr>
 
@@ -62,7 +60,6 @@ GDGoC 크루들이 다 같이 모여 기록하는 습관을 들이고, 서로 �
   <td><a href="https://velog.io/@kimm00/posts">도이 블로그</a></td>
   <td><a href="https://winterx3.tistory.com/">영홍 블로그</a></td>
   <td><a href="https://velog.io/@sjmn-zip/posts">재민 블로그</a></td>
-  <td><a href=""> 블로그</a></td>
   <td><a href="https://blog.antaewoo.com">태우 블로그</a></td>
 </tr>
 </table>
