@@ -3,7 +3,7 @@
 ## 📝 블로그 업로드
 - [ ] 도이 - []()
 - [ ] 영홍 - []()
-- [x] 하진 - [](ERP 뱅킹 × GEO 마케팅 - https://pajingi.tistory.com/m/9）
+- [x] 하진 - ERP 뱅킹 × GEO 마케팅 - https://pajingi.tistory.com/m/9
 - [ ] 재민 - []()
 - [ ] 태우 - []()
 - [x] 민우 - [B2B & SaaS — 테넌트와 조직 구조](https://velog.io/@m2nwo079/B2B-SaaS-%ED%85%8C%EB%84%8C%ED%8A%B8%EC%99%80-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0)
