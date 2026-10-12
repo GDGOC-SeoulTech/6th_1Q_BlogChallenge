@@ -8,7 +8,7 @@
 - [ ] 태우 - []()
 - [x] 민우 - [B2B & SaaS — 테넌트와 조직 구조](https://velog.io/@m2nwo079/B2B-SaaS-%ED%85%8C%EB%84%8C%ED%8A%B8%EC%99%80-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0)
 - [ ] 진우 - []()
-- [ ] 준범 - []()
+- [x] 준범 - [AI의 숨겨진 병목, 전력 병목에 대하여](https://velog.io/@jangjb_115/AI%EC%9D%98-%EC%88%A8%EA%B2%A8%EC%A7%84-%EB%B3%91%EB%AA%A9-%EC%A0%84%EB%A0%A5-%EB%B3%91%EB%AA%A9%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 - [ ] 연지 - []()
 - [ ] 승호 - []()
 - [ ] 대성 - []()
