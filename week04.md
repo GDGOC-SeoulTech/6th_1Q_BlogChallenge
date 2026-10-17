@@ -4,7 +4,7 @@
 - [ ] 도이 - []()
 - [ ] 영홍 - []()
 - [ ] 하진 - []()
-- [ ] 재민 - []()
+- [ ] 재민 - [Daon#3](https://velog.io/@sjmn-zip/Daon-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3-57.4%EC%9D%98-%EB%B2%BD-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EA%B0%90%EC%A0%95-%EB%B6%84%EB%A5%98-Streamlit-MVP-FastAPI-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC)
 - [ ] 태우 - []()
 - [ ] 민우 - []()
 - [ ] 진우 - []()
