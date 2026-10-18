@@ -1,4 +1,4 @@
-# Week 4 - GDG 파워블로거 챌린지
+# Week 5 - GDG 파워블로거 챌린지
 
 ## 📝 블로그 업로드
 - [ ] 도이 - []()
@@ -22,7 +22,7 @@
 <br>
 
 <details>
-<summary>🗓️ <b>Week 4</b> — Peer Review · <code>11/11 ✅</code></summary>
+<summary>🗓️ <b>Week 5</b> — Peer Review · <code>11/11 ✅</code></summary>
 
 <br>
 
