@@ -3,7 +3,7 @@
 ## 📝 블로그 업로드
 - [ ] 도이 - []()
 - [ ] 영홍 - []()
-- [ ] 하진 - []()
+- [ ] 하진 - [GEO 효과를 측정 가능한 숫자로 만드는 파이프라인 설계](https://pajingi.tistory.com/10)
 - [ ] 재민 - [Daon#3](https://velog.io/@sjmn-zip/Daon-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3-57.4%EC%9D%98-%EB%B2%BD-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EA%B0%90%EC%A0%95-%EB%B6%84%EB%A5%98-Streamlit-MVP-FastAPI-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC)
 - [ ] 태우 - []()
 - [ ] 민우 - []()
